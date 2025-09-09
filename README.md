@@ -1,2 +1,1 @@
-# Git Practice
-Gioi thieu: Toi la <Luu Tan Khoa>, MSSV <221541>.
+Day la README tu nhanh main.
